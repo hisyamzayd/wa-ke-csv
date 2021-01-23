@@ -1,0 +1,9 @@
+android
+dd/MM/YY, HH:MM - Sender: Messages
+dd/MM/YY, HH:MM AM/PM - Sender: Messages
+dd/MM/YYYY HH.MM - Sender: Messages
+dd/MM/YY HH.MM - Sender: Messages
+
+ios
+[dd/MM/YY HH.MM.SS] Sender: ‎Messages
+[dd/MM/YY HH.MM.SS AM/PM] Sender: ‎Messages
