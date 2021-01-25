@@ -19,9 +19,9 @@ python wa_ke_csv_ios.py
 ## kekurangan
 * regex belum berfungsi pada hasil export chat dengan nomor kontak lawan bicara yang belum disimpan.
 
-## license :
+## license
 * tidak ada. mau langsung pakai silahkan, kalau mau diperbaiki saya sangat berterima kasih 🙏.
 
-## keterangan lain :
+## keterangan lain
 * format regex pada masing-masing os tersedia dalam file [format_pesan_export.txt](format_pesan_export.txt)
 * file format ipynb sama dengan format py. dibuat untuk memudahkan debugging.
