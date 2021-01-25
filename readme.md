@@ -18,7 +18,6 @@ python wa_ke_csv_ios.py
 
 ## kekurangan
 * regex belum berfungsi pada hasil export chat dengan nomor kontak lawan bicara yang belum disimpan.
-* emoticon atau bentuk unicode character unik lainnya tidak terbaca pada csv.
 
 ## license :
 * tidak ada. mau langsung pakai silahkan, kalau mau diperbaiki saya sangat berterima kasih 🙏.
