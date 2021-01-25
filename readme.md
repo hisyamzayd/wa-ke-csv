@@ -1,6 +1,5 @@
 # panduan penggunaan 'wa ke csv'
 untuk whatsapp ios dan android
-author: hisyam zayd
 
 ## langkah run program
 1. pastikan sudah terinstall pandas pada python
@@ -18,6 +17,7 @@ python wa_ke_csv_ios.py
 
 ## kekurangan
 * regex belum berfungsi pada hasil export chat dengan nomor kontak lawan bicara yang belum disimpan.
+* format timestamp csv berbeda antara android dan ios
 
 ## license
 * tidak ada. mau langsung pakai silahkan, kalau mau diperbaiki saya sangat berterima kasih 🙏.
